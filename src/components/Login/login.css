@@ -1,0 +1,19 @@
+.paperStyle{
+    padding: 20px;
+    height: 76vh; 
+    width: 280px;
+    margin: 20px auto;
+}
+.heading{
+    color: grey;
+}
+.avatarStyle{
+    background-color: #834bff;
+}
+.btnstyle{ 
+    margin: 8px 0;
+}
+ .user {
+    font-size: 20;
+    font-weight: 400;
+}
